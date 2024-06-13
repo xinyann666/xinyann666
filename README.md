@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinyann666
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning supervised learning and web page design.
+- 🌱 I’m currently learning Reinforcement learning and web page design.
 - 💞️ I’m looking to collaborate on all interesting ideas.
 - 📫 How to reach me : gaoxinyann@gmail.com
 - 😄 Pronouns: Her
