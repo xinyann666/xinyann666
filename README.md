@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all interesting ideas.
 - 📫 How to reach me : gaoxinyann@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: :)
+- ⚡ Fun fact: I love 🐰, especially Snowball!
 
 <!---
 xinyann666/xinyann666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
