@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinyann666
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning information engineering at CUHK.
+- 🌱 I’m currently a yr3 UG student majoring in Information Engineering at CUHK.
 - 💞️ I’m looking to collaborate on all interesting ideas.
 - 📫 How to reach me : gaoxinyann@gmail.com
 - 😄 Pronouns: Her
